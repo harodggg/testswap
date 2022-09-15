@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, JSBI, Pair, Percent, TokenAmount } from '@im33357/uniswap-v2-sdk'
+import { Currency, CurrencyAmount, JSBI, Pair, Percent, TokenAmount } from '@haroldtiansheng/uniswap-v2-sdk'
 import { useCallback } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import { usePair } from '../../data/Reserves'

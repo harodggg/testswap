@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Fraction, Percent } from '@im33357/uniswap-v2-sdk'
+import { Currency, CurrencyAmount, Fraction, Percent } from '@haroldtiansheng/uniswap-v2-sdk'
 import React from 'react'
 import { Text } from 'rebass'
 import { ButtonPrimary } from '../../components/Button'

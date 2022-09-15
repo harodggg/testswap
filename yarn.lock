@@ -1707,10 +1707,10 @@
   dependencies:
     "@hapi/hoek" "^9.0.0"
 
-"@im33357/uniswap-v2-sdk@3.0.7":
+"@haroldtiansheng/uniswap-v2-sdk@3.0.7":
   version "3.0.7"
-  resolved "https://registry.yarnpkg.com/@im33357/uniswap-v2-sdk/-/uniswap-v2-sdk-3.0.7.tgz#4c3f1d54464eb7325f24887b21be7e326814998c"
-  integrity sha512-o5abZp6Xt3rNkPgU8ngCXvboPQGAXoh69GKyaz1AxummwQNHoLcWURbwW74hHNyDgRu0re2MvqpVNYFebuhVNw==
+  resolved "https://registry.npmjs.org/@haroldtiansheng/uniswap-v2-sdk/-/uniswap-v2-sdk-3.0.7.tgz#1a2ecf7366cb23d36d95a2bbd652f664a1071236"
+  integrity sha512-HOdjsIL11wlb2byKNQbKpwuUEICAgx8QhA709N8E45q2MzNbT8y1Icy3d4S5vrKGirQ7fUkdOfzq3Xe80cSZaQ==
   dependencies:
     "@uniswap/v2-core" "^1.0.0"
     big.js "^5.2.2"
