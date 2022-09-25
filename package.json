@@ -4,6 +4,9 @@
   "repository": "https://github.com/harodggg/testswap.git",
   "homepage": "https://harodggg.github.io/testswap",
   "private": true,
+  "publishConfig": {
+   "harodggg:registry": "https://npm.pkg.github.com"
+ },
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
     "@haroldtiansheng/uniswap-v2-sdk": "3.0.7",
